@@ -1,5 +1,5 @@
 % =========================================================================
-%  Lab 14 – CEP-3: Model Validation & Parameter Identification  [FINAL v4]
+%  Lab 14 – CEP-3: Model Validation & Parameter Identification  
 %  Self-Balancing Robot | UET Lahore – Control Systems Lab
 %
 %  APPROACH:
