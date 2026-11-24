@@ -229,16 +229,7 @@ Tuning tips:
 
 ---
 
-## Things to know
 
-- **`balance_robot_code.ino` is incomplete.** It was copied from screenshots in the Part 1 report, and a few lines were not visible. It is missing the start of the HTML string, one line in `loop()`, and the declarations of `isEnabled`, `P`, `D` and `previousError`. Fill these in from your original sketch before compiling.
-- **Code and report disagree in places** (see the table above). The Part 2 report text lists different gains from the ones in the code. Decide which is your final version and make them match.
-- **The Part 1 report mentions a `BalanceBot` network**, but the code uses `ESP_burners`.
-- **The Part 3 data was poor.** J came from the short balanced window, so it is an estimate, not a precise measurement.
-- **The lead-lag step response overshoots by about 37 %.** The phase margin target was met, but this is worth mentioning in discussion.
-
-
----
 
 ## References
 
