@@ -2,10 +2,10 @@
 #include <WiFi.h>
 #include <ESPAsyncWebServer.h>
 
-// =====================================================================
+// ====================================================================
 // Lab 13 — Self-Balancing Robot + Light Following (MIMO Control)
 // OPTIMIZED FOR: Aggressive Light Following / High Steering Priority
-// =====================================================================
+// ====================================================================
 
 // ─── Data Logging Requirements ───
 #define BUFFER_SIZE 2000
