@@ -2,7 +2,7 @@
 #include <WiFi.h>
 #include <ESPAsyncWebServer.h>
 
-// ─── Data Logging Requirements ───
+// ─── Data Logging Requirements ──
 #define BUFFER_SIZE 2000
 float angleBuffer[BUFFER_SIZE];
 int bufferIndex = 0;
